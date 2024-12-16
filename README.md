@@ -22,4 +22,4 @@ Picture before getting brighten
 
 Picure after getting brighten
 
-ß![alt text](brighten_spidermans.webp)
+![alt text](brighten_spidermans.webp)
