@@ -79,7 +79,7 @@ def final_processing(poto):
     cdf = calc_cdf(pmf_sorted) # menmbuat cdf dari pmf menggunakan fungsi calc_cdf
     new = hist_equalization(cdf, matrices) # melakukan proses histogram equalization
     image_new = Image.fromarray(new) # membentuk poto dari matriks yang telah dimanipulasi
-    image.save(f"brighten_{poto.split('.')[0]}.webp")
+    image_new.save(f"brighten_{poto.split('.')[0]}.webp")
     image.show() # mencetak poto sebelum dienhance brightness nya
     image_new.show() # mencetak poto setelah dienhance brightness nya
     return ''

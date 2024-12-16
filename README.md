@@ -17,7 +17,9 @@ Type in the file name: spidermans.webp
 ```
 
 Picture before getting brighten
+
 ![alt text](spidermans.webp)
 
 Picure after getting brighten
-![alt text](brighten_spidermans.webp)
+
+ß![alt text](brighten_spidermans.webp)
